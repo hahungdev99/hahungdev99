@@ -1,4 +1,4 @@
-### 👋 Hello there! I'm [YOUR NAME]
+### 👋 Hello there! I'm Hung
 
 #### 🚀 AI Engineer | Focused on Reinforcement Learning & Machine Intelligence
 
